@@ -1,0 +1,19 @@
+[package]
+name = "puzzle_design"
+version = "0.1.0"
+keywords = ["mathematics", "combinatorics", "puzzle", "advancedresearch", "piston"]
+description = "A game engine for generic puzzle design and problem solving"
+license = "MIT or Apache-2.0"
+readme = "README.md"
+repository = "https://github.com/advancedresearch/puzzle_design.git"
+homepage = "https://github.com/advancedresearch/puzzle_design"
+edition = "2024"
+
+[dependencies]
+avalog = "0.7.2"
+discrete = "0.5.0"
+linear_solver = "0.2.2"
+monotonic_solver = "0.5.0"
+piston_mix_economy = "0.2.1"
+quickbacktrack = "0.7.1"
+num = "0.4.3"
