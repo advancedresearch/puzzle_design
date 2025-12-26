@@ -5,5 +5,5 @@ pub use avalog;
 pub use discrete;
 pub use linear_solver;
 pub use monotonic_solver;
-pub use piston_mix_economy;
+pub use piston_mix_economy as mix_economy;
 pub use quickbacktrack;
