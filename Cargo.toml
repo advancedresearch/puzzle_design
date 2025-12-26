@@ -1,6 +1,6 @@
 [package]
 name = "puzzle_design"
-version = "0.1.0"
+version = "0.2.0"
 keywords = ["mathematics", "combinatorics", "puzzle", "advancedresearch", "piston"]
 description = "A game engine for generic puzzle design and problem solving"
 license = "MIT or Apache-2.0"
